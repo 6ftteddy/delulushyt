@@ -1,1 +1,3 @@
 # delulushyt
+This is my fist ever project.
+Well im just testing this for fun or .....
